@@ -1,0 +1,49 @@
+body{
+	font-family: 'Indie Flower', cursive;
+}
+h1{
+	
+	color: green;
+	font-family: 'Yellowtail', cursive;
+	font-size: 100px;
+	text-align: center;
+	letter-spacing: 18px;
+	text-shadow: 7px 3px 12px black;
+	border:8px double black;
+	padding: 8px;
+	display: inline;
+	margin-left: 284px;
+	margin-top: 60px;
+	border-radius: 50px;
+}
+
+.red{
+	color: red;
+}
+
+.one{
+	width: 300px;
+	height: 400px;
+	background: red;
+}
+.two{
+	width: 300px;
+	height: 400px;
+	background: green;
+	margin-left: 855px;
+	margin-top: -383px;
+}
+
+
+.Bangladesh{
+	background: green;
+	width:  500px;
+	height: 300px;
+}
+.lal{
+	background: red;
+	width: 300px;
+	height:300px;
+	border-radius: 50px;
+	margin: 93px;
+}
